@@ -1,0 +1,5 @@
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.Dominio\bin\Release\Campeonato.Dominio.dll
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.Dominio\bin\Release\Campeonato.Dominio.pdb
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.Dominio\obj\Release\Campeonato.Dominio.csprojResolveAssemblyReference.cache
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.Dominio\obj\Release\Campeonato.Dominio.dll
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.Dominio\obj\Release\Campeonato.Dominio.pdb

@@ -1,0 +1,49 @@
+22:17:20 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 2
+22:17:20 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 3
+22:17:21 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 4
+22:17:22 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 5
+22:17:22 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 6
+22:17:22 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 7
+22:17:23 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 1
+22:17:23 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 2 x   timeVisitante.Id 3
+22:17:23 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 2 x   timeVisitante.Id 4
+22:17:24 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 2 x   timeVisitante.Id 5
+22:17:24 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 2 x   timeVisitante.Id 6
+22:17:25 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 2 x   timeVisitante.Id 7
+22:17:25 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 2
+22:17:25 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 3 x   timeVisitante.Id 4
+22:17:25 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 3 x   timeVisitante.Id 5
+22:17:27 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 3 x   timeVisitante.Id 6
+22:17:27 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 3 x   timeVisitante.Id 7
+22:17:27 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 3
+22:17:28 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 4 x   timeVisitante.Id 5
+22:17:28 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 4 x   timeVisitante.Id 6
+22:17:29 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 4 x   timeVisitante.Id 7
+22:17:29 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 4
+22:17:29 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 5 x   timeVisitante.Id 6
+22:17:30 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 5 x   timeVisitante.Id 7
+22:17:30 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 5
+22:17:30 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 6 x   timeVisitante.Id 7
+22:17:31 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 6
+22:17:31 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 7
+22:28:15 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 2
+22:28:15 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 3
+22:28:16 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 4
+22:28:19 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 5
+22:28:20 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 1 x   timeVisitante.Id 6
+22:28:20 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 1
+22:28:21 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 2 x   timeVisitante.Id 3
+22:28:21 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 2 x   timeVisitante.Id 4
+22:28:21 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 2 x   timeVisitante.Id 5
+22:28:22 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 2 x   timeVisitante.Id 6
+22:28:22 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 2
+22:28:23 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 3 x   timeVisitante.Id 4
+22:28:24 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 3 x   timeVisitante.Id 5
+22:28:24 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 3 x   timeVisitante.Id 6
+22:28:24 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 3
+22:28:25 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 4 x   timeVisitante.Id 5
+22:28:25 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 4 x   timeVisitante.Id 6
+22:28:25 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 4
+22:28:25 - Info - idCampeonatoSelecionado: 1 x   timeMandandate.Id 5 x   timeVisitante.Id 6
+22:28:26 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 5
+22:28:26 - Info - ClassificaçãoInserida: 1 x   timeMandandate.Id 6

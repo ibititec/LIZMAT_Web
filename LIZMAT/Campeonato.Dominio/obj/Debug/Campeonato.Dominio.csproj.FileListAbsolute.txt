@@ -1,0 +1,4 @@
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.Dominio\bin\Debug\Campeonato.Dominio.dll
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.Dominio\bin\Debug\Campeonato.Dominio.pdb
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.Dominio\obj\Debug\Campeonato.Dominio.dll
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.Dominio\obj\Debug\Campeonato.Dominio.pdb

@@ -1,0 +1,8 @@
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.RepositorioADO\bin\Release\Campeonato.RepositorioADO.dll.config
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.RepositorioADO\bin\Release\Campeonato.RepositorioADO.dll
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.RepositorioADO\bin\Release\Campeonato.RepositorioADO.pdb
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.RepositorioADO\bin\Release\Campeonato.Dominio.dll
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.RepositorioADO\bin\Release\Campeonato.Dominio.pdb
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.RepositorioADO\obj\Release\Campeonato.RepositorioADO.csprojResolveAssemblyReference.cache
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.RepositorioADO\obj\Release\Campeonato.RepositorioADO.dll
+D:\Git_Ibititec\LIZMAT_Web\LIZMAT\Campeonato.RepositorioADO\obj\Release\Campeonato.RepositorioADO.pdb
